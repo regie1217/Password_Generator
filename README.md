@@ -30,3 +30,4 @@ https://www.youtube.com/watch?v=iKo9pDKKHnc
 
 ## Link to the deployed application
 The link for this application can be found below:
+https://regie1217.github.io/Password_Generator/
